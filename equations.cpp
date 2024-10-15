@@ -1,5 +1,3 @@
-#include "pch.h"
-#include "equations.h"
 #include <string>
 #include <cmath>
 
